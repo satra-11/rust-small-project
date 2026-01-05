@@ -1,5 +1,5 @@
 [package]
-name = "001-cli-tool"
+name = "grrs"
 version = "1.31.0"
 edition = "2018"
 
